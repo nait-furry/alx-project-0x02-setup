@@ -113,3 +113,7 @@ export default function Home() {
     </div>
   );
 }
+
+import Head from "next/head";
+import Header from "@/components/layout/Header";
+
